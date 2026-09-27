@@ -1,0 +1,6 @@
+2026-09-26 10:00:01 INFO Starting service
+2026-09-26 10:00:05 INFO Connection established
+2026-09-26 10:01:12 ERROR Database connection failed
+2026-09-26 10:01:15 INFO Retrying connection
+2026-09-26 10:02:00 ERROR Timeout occurred
+2026-09-26 10:02:30 INFO Connection established
